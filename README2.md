@@ -86,7 +86,7 @@ const variableA = process.env.REACT_APP_QUERY_RESULT_URL;
 
 CREATE-REACT-APP has built-in support for testing. The steps to execute testing as below.<br/>
 
-a) Create a file end with <example>.test.tsx
+a) Create a file end with example.test.tsx <br/>
 `App.test.tsx`
 
 b) Run test by CMD command<br/>
